@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2af2e382-c2de-420c-a5dd-98949ffe4f55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582734824610">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582734824610" />
     <state x="2034" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582731466470">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
