@@ -67,13 +67,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1926" y="119" key="CommitChangelistDialog2" timestamp="1582735522982">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1926" y="119" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582735522982" />
     <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582734824610">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582734824610" />
+    <state x="2033" y="235" key="RollbackChangesDialog" timestamp="1582735587903">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2033" y="235" key="RollbackChangesDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582735587903" />
     <state x="2034" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582731466470">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2034" y="349" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582731466470" />
+    <state x="2042" y="378" key="git4idea.ui.GitTagDialog" timestamp="1582735546278">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2042" y="378" key="git4idea.ui.GitTagDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1582735546278" />
   </component>
 </project>
